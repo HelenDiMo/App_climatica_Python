@@ -1,4 +1,4 @@
-from model.Manager import leer_json, escribir_json, registro_valido
+from model.manager import leer_json, escribir_json, registro_valido
 
 # Importo las funciones que necesito desde Manager.py
 # leer_json() me devuelve la lista de registros guardados
