@@ -1,4 +1,6 @@
 from controller.control_menu import validar_opcion_menu, validar_opcion_zona, ZONAS
+from model.register_weather import guardar_registro, buscar_por_zona
+
 
 def mostrar_menu():
     """
