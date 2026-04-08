@@ -5,5 +5,12 @@
         "temperatura": 30.0,
         "humedad": 20.0,
         "viento": 12.0
+    },
+    {
+        "fecha": "08-04-2026",
+        "zona": "Centro",
+        "temperatura": 20.0,
+        "humedad": 10.0,
+        "viento": 15.0
     }
 ]
