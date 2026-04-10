@@ -1,5 +1,3 @@
-import os
-import json
 
 # Importo os para trabajar con rutas y comprobar si existen archivos o carpetas
 # Importo json para poder leer y escribir datos en formato JSON
